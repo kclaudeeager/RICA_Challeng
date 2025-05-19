@@ -1,5 +1,22 @@
 # Rwanda Transport Dashboard
 
+## Project Overview
+
+This dashboard analyzes public sentiment regarding Rwanda's transition from flat-rate to distance-based fare pricing in public transport. The project helps policymakers understand citizen reactions by:
+
+- Analyzing social media posts, news comments, and public forums
+- Tracking sentiment trends over time
+- Identifying key public concerns and potential misinformation
+- Providing actionable insights for policy refinement
+
+### Key Features
+
+- Real-time sentiment analysis of public transport discussions
+- Multi-language support for Kinyarwanda and English content
+- Interactive visualizations of sentiment trends
+- Automated detection of emerging concerns
+- Data collection from multiple sources (Twitter, news sites, forums)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Prerequisites
